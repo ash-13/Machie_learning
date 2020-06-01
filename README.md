@@ -17,6 +17,9 @@ I have started with basic python, for those who are not familiar with python. If
 
 First Just gothrought the `README.md`, this has all the details you want as starters. 
 You Can go to the respective content to use the lesson.
+Lessons are broken up into diffrent Python notebooks.
+Start with #1 and follow the sequence.
+Each notebook has information how to use, what conrosponds to what.
 
 ### Contribution 
 
